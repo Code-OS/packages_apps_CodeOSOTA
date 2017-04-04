@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>Emotion-7.1.1-20170224-OFFICIAL-oneplus3.zip</Filename>
+            <Filename>Emotion-7.1.1-20170404-OFFICIAL-oneplus3.zip</Filename>
             <RomUrl
                 id="rom"
                 title="EmotionOS"
-                description="Download ROM ZIP">https://de1.androidfilehost.com/dl/ZI9rl6WbYPftbvUHnKKBpQ/1488211430/673368273298934001/Emotion-7.1.1-20170224-OFFICIAL-oneplus3.zip</RomUrl>
+                description="Download ROM ZIP">https://de1.androidfilehost.com/dl/DFWeetrv4GRKJI98-Xgxsg/1491574082/817550096634759847/Emotion-7.1.1-20170404-OFFICIAL-oneplus3.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
