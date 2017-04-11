@@ -110,11 +110,11 @@
         </trltevzw>
 
         <trltexx>
-            <Filename>Emotion-7.1.1-20170402-OFFICIAL-trltexx.zip</Filename>
+            <Filename>Emotion-7.1.1-20170410-OFFICIAL-trltexx.zip</Filename>
             <RomUrl
                 id="rom"
                 title="EmotionOS"
-                description="Download ROM ZIP">https://de1.androidfilehost.com/dl/1Kfvy0m_sUYcrUPlyFPEOg/1491988734/817550096634759079/Emotion-7.1.1-20170402-OFFICIAL-trltexx.zip</RomUrl>
+                description="Download ROM ZIP">https://de1.androidfilehost.com/dl/BvwQWSjVQmPl_XzN_bm7Gw/1492141625/457095661767153027/Emotion-7.1.1-20170410-OFFICIAL-trltexx.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -126,7 +126,7 @@
             <GithubUrl
                 id="github"
                 title="Source Code"
-                description="Expolre the source code">https://github.com/EmotionOS</GithubUrl>
+                description="Explore the source code">https://github.com/EmotionOS</GithubUrl>
             <XDAUrl
                 id="xda"
                 title="XDA Thread"
@@ -144,7 +144,7 @@
                 title="Paypal Donation"
                 description="Support the development">https://goo.gl/9ftOB5</DonateUrl>
         </trltexx>
-        
+
         <s2>
             <Filename>Emotion-7.1.1-20170405-OFFICIAL-s2.zip</Filename>
             <RomUrl
