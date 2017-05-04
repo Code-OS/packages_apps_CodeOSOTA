@@ -180,5 +180,41 @@
                 title="Paypal Donation"
                 description="Support the development">https://goo.gl/9ftOB5</DonateUrl>
          </s2>
+
+        <natrium>
+            <Filename>Emotion-7.1.1-20170503-OFFICIAL-natrium.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="EmotionOS"
+                description="Download ROM ZIP">http://qc4.androidfilehost.com/dl/nF7-jvHbIuOOWNq-psdWmQ/1491646358/529152257862717220/Emotion-7.1.1-20170503-OFFICIAL-natrium.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View the changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="opengapps"
+                title="Open GApps"
+                description="Download GApps package">http://opengapps.org</OpenGappsUrl>
+            <GithubUrl
+                id="github"
+                title="Source Code"
+                description="Expolre the source code">https://github.com/EmotionOS</GithubUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit XDA thread">https://forum.xda-developers.com</XDAUrl>
+            <GooglePlusUrl
+                id="googleplus"
+                title="Google+ Community"
+                description="Join EmotionOS community">https://goo.gl/1ByphU</GooglePlusUrl>
+            <ContactUrl
+                id="contact"
+                title="Contact Us"
+                description="Send an email to developers">mailto:emotionaosp@gmail.com</ContactUrl>
+            <DonateUrl
+                id="donate"
+                title="Paypal Donation"
+                description="Support the development">https://goo.gl/9ftOB5</DonateUrl>
+         </natrium>
     </Stable>
 </SlimOTA>
