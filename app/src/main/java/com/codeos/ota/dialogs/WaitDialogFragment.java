@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Chandra Poerwanto
+ * Copyright (C) 2017 CodeOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.dialogs;
+package com.codeos.ota.dialogs;
 
 import android.app.Dialog;
 import android.app.DialogFragment;
@@ -22,7 +22,7 @@ import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
-import com.emotion.ota.R;
+import com.codeos.ota.R;
 
 public class WaitDialogFragment extends DialogFragment {
 

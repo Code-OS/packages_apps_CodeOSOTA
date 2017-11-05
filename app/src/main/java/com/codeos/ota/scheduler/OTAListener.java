@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Chandra Poerwanto
+ * Copyright (C) 2017 CodeOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.scheduler;
+package com.codeos.ota.scheduler;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
@@ -25,8 +25,8 @@ import android.net.NetworkInfo;
 import android.os.SystemClock;
 
 import com.commonsware.cwac.wakeful.WakefulIntentService;
-import com.emotion.ota.configs.AppConfig;
-import com.emotion.ota.utils.OTAUtils;
+import com.codeos.ota.configs.AppConfig;
+import com.codeos.ota.utils.OTAUtils;
 
 public class OTAListener implements WakefulIntentService.AlarmListener {
 

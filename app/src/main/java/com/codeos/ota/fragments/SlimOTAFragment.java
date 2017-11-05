@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Chandra Poerwanto
+ * Copyright (C) 2017 CodeOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.fragments;
+package com.codeos.ota.fragments;
 
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
@@ -25,14 +25,14 @@ import android.preference.PreferenceCategory;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceScreen;
 
-import com.emotion.ota.R;
-import com.emotion.ota.configs.AppConfig;
-import com.emotion.ota.configs.LinkConfig;
-import com.emotion.ota.configs.OTAVersion;
-import com.emotion.ota.dialogs.WaitDialogFragment;
-import com.emotion.ota.tasks.CheckUpdateTask;
-import com.emotion.ota.utils.OTAUtils;
-import com.emotion.ota.xml.OTALink;
+import com.codeos.ota.R;
+import com.codeos.ota.configs.AppConfig;
+import com.codeos.ota.configs.LinkConfig;
+import com.codeos.ota.configs.OTAVersion;
+import com.codeos.ota.dialogs.WaitDialogFragment;
+import com.codeos.ota.tasks.CheckUpdateTask;
+import com.codeos.ota.utils.OTAUtils;
+import com.codeos.ota.xml.OTALink;
 
 import java.util.List;
 

@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Chandra Poerwanto
+ * Copyright (C) 2017 CodeOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.utils;
+package com.codeos.ota.utils;
 
 import android.content.Context;
 import android.content.Intent;
@@ -22,7 +22,7 @@ import android.net.Uri;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.emotion.ota.configs.OTAConfig;
+import com.codeos.ota.configs.OTAConfig;
 
 import java.io.BufferedReader;
 import java.io.File;

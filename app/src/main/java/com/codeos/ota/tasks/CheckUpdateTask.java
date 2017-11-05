@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Chandra Poerwanto
+ * Copyright (C) 2017 CodeOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.tasks;
+package com.codeos.ota.tasks;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -28,16 +28,16 @@ import android.os.AsyncTask;
 import android.os.Handler;
 import android.os.Message;
 
-import com.emotion.ota.MainActivity;
-import com.emotion.ota.R;
-import com.emotion.ota.configs.AppConfig;
-import com.emotion.ota.configs.LinkConfig;
-import com.emotion.ota.configs.OTAConfig;
-import com.emotion.ota.configs.OTAVersion;
-import com.emotion.ota.dialogs.WaitDialogHandler;
-import com.emotion.ota.utils.OTAUtils;
-import com.emotion.ota.xml.OTADevice;
-import com.emotion.ota.xml.OTAParser;
+import com.codeos.ota.MainActivity;
+import com.codeos.ota.R;
+import com.codeos.ota.configs.AppConfig;
+import com.codeos.ota.configs.LinkConfig;
+import com.codeos.ota.configs.OTAConfig;
+import com.codeos.ota.configs.OTAVersion;
+import com.codeos.ota.dialogs.WaitDialogHandler;
+import com.codeos.ota.utils.OTAUtils;
+import com.codeos.ota.xml.OTADevice;
+import com.codeos.ota.xml.OTAParser;
 
 import org.xmlpull.v1.XmlPullParserException;
 

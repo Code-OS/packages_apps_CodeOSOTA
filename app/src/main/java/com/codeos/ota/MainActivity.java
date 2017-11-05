@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Chandra Poerwanto
+ * Copyright (C) 2017 CodeOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,16 +14,16 @@
  * limitations under the License.
  */
 
-package com.emotion.ota;
+package com.codeos.ota;
 
 import android.app.Fragment;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.view.MenuItem;
 
-import com.emotion.ota.configs.LinkConfig;
-import com.emotion.ota.dialogs.WaitDialogFragment;
-import com.emotion.ota.fragments.SlimOTAFragment;
+import com.codeos.ota.configs.LinkConfig;
+import com.codeos.ota.dialogs.WaitDialogFragment;
+import com.codeos.ota.fragments.SlimOTAFragment;
 
 public class MainActivity extends PreferenceActivity implements
         WaitDialogFragment.OTADialogListener, LinkConfig.LinkConfigListener {

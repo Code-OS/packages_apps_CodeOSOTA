@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Chandra Poerwanto
+ * Copyright (C) 2017 CodeOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.configs;
+package com.codeos.ota.configs;
 
 import android.app.AlarmManager;
 import android.content.Context;
@@ -22,9 +22,9 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
 import com.commonsware.cwac.wakeful.WakefulIntentService;
-import com.emotion.ota.R;
-import com.emotion.ota.scheduler.OTAListener;
-import com.emotion.ota.utils.OTAUtils;
+import com.codeos.ota.R;
+import com.codeos.ota.scheduler.OTAListener;
+import com.codeos.ota.utils.OTAUtils;
 
 import java.text.DateFormat;
 import java.util.Date;
